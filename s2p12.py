@@ -1,5 +1,5 @@
 b=str(input())
 if(b==b[::-1]):
- print("Yes")
+ print("yes")
 else:
  print("no")
