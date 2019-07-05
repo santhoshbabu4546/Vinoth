@@ -1,2 +1,2 @@
-int=input()
-print(len(int))
+ch=str(input())
+print(len(ch))
